@@ -1,0 +1,21 @@
+.capitan{
+    width: 400px;
+    height: 250px;
+    background: linear-gradient(rgb(250, 64, 250), rgb(109, 1, 119));
+}
+.man{
+    width: 400px;
+    height: 250px;
+    background: linear-gradient(rgb(0, 255, 0), rgb(73, 122, 0)); 
+   
+}
+.vdova{width: 400px;
+    height: 250px;
+    background: linear-gradient(rgb(255, 0, 0), rgb(128, 1, 1));
+
+}
+.pavyk{
+    width: 400px;
+    height: 250px;
+    background: linear-gradient(rgb(43, 43, 253),rgb(0, 0, 136));
+}
